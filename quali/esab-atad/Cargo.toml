@@ -1,0 +1,6 @@
+[package]
+name = "esab-atad"
+version = "0.1.0"
+authors = ["capplemanlynes"]
+
+[dependencies]

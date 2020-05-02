@@ -1,0 +1,6 @@
+[package]
+name = "vestigium"
+version = "0.1.0"
+authors = ["capplemanlynes"]
+
+[dependencies]
